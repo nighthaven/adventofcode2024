@@ -1,6 +1,3 @@
-import os
-print("Current working directory:", os.getcwd())
-
 with open('/Users/borislebon/Documents/13. PROGRAMMATION/programmation/Python/test_technique/advent_of_code_2024/day1/input.txt', 'r') as file:
     lines = file.readlines()
     left_list = []
